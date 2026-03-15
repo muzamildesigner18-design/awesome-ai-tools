@@ -1,5 +1,3 @@
-# awesome-ai-tools
-A collection of useful AI tools for developers and creators.
 # Awesome AI Tools
 
 This repository contains a curated list of useful AI tools for developers.
